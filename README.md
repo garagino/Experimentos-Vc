@@ -66,5 +66,13 @@ Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/NicoleVictory">
+        <img src="https://avatars3.githubusercontent.com/NicoleVictory" width="100px;" alt="Foto de Malu"/><br>
+        <sub>
+          <b>Nicole Victory</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
